@@ -1,0 +1,18 @@
+import HomePage from "./components/homepage";
+import Welcome from "./components/Welcome";
+import Students from "./components/Students";
+const App = ()=>{
+  // logic
+
+return (
+  // UI
+  <div>
+
+    <Students name="Mary Jane" age ="25 yrs" grade= "A1"/>
+   
+
+  </div>
+)
+
+}
+export default App;
